@@ -1,0 +1,11 @@
+{
+  "name": "jvpainting",
+  "version": "0.0.1",
+  "description": "Website for JVPainting Services",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Diana Vazquez",
+  "license": "ISC"
+}
